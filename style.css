@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.all-header{
+    height: 100vh;
+    background-color:rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+    font-family: Lato; 
+    
+}
+.hrader-img{
+    width: 500px; 
+    height: 600px;
+}
+.headers{
+    padding: 45px;
+}
+.header1{
+    font-size: 70px;
+    font-weight: bold;
+    color:#272727;
+    font-style: normal;
+    font-weight: 700; 
+    margin: 18px 22px;
+}
+.header2{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 350px;
+    font-style: normal;
+    margin: 18px 22px;
+}
+.btn{
+    font-size:18px;
+    font-weight: 400;
+    background-color:#E55473;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 18px;
+}
+.hrader-img{
+    margin-top: 200px;
+    margin-right: 150;
+}
