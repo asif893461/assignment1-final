@@ -51,12 +51,14 @@
 }
 
 /*Our Featured Flowers*/
+
 .asif1{
     font-size: 40px;
 }
 .pic{
     display: flex;
     align-items: center;
+
     margin-left: 240px;
     margin-right: 240px;
     
@@ -122,3 +124,36 @@
     border-radius: 8px;
     background: #E55473; 
 }
+
+    /*Instagram*/
+.padding3{
+    padding-top: 20px;
+}
+.section3{
+   text-align: center; 
+}
+.section4{
+    display: flex;
+    margin-left: 150px;
+    gap: 15px;
+    margin-top: 10px;
+    
+   
+}
+.s3t1{
+    
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 100px; 
+}
+.s3t2{
+    color:rgba(39, 39, 39, 0.60);
+    margin-top: 5px;
+}
+.divimg{
+    height: 280px;
+    width: 300px;
+}
+   
