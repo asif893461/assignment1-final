@@ -157,10 +157,8 @@
     width: 300px;
 }
 
-/*Get The Latest Deals*/
-.4secall{
+ /*Get The Latest Deals*/
 
-}
 .sec4{
     text-align: center;
 }
@@ -200,4 +198,29 @@
 .allsec45{
     text-align: center;
     padding-top: 300px;
+}
+/*footer*/
+.footer1{
+    text-align: center;
+    width: 1800px;
+    height: 430px; 
+    background-color: #111010;
+    color: #FFFFFF;
+}
+.big{
+    padding-top: 111px;
+    margin-right: 400px;
+}
+.medium{
+    margin-right: 400px;
+    padding-top: 10px;
+    color:rgba(255, 255, 255, 0.699); 
+}
+.short{
+    margin-right: 400px;
+    padding-top: 10px;
+    color: rgba(255, 255, 255, 0.40);;
+}
+.top{
+    color:#E55473;
 }
