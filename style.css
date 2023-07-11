@@ -156,4 +156,48 @@
     height: 280px;
     width: 300px;
 }
-   
+
+/*Get The Latest Deals*/
+.4secall{
+
+}
+.sec4{
+    text-align: center;
+}
+.sec41{
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800; 
+    
+}
+.sec42{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sec43{
+    display: flex;
+    
+}
+.sec44{
+    
+    margin-left: 370px;
+    border-radius: 8px;
+    width: 600px;
+    height: 38px; 
+    background: #FFF;
+    padding: 10px;
+    padding-top: 10px;
+}
+.allsec4{
+    height: 100vh;
+    background-image:url("./Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.allsec45{
+    text-align: center;
+    padding-top: 300px;
+}
