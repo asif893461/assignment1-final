@@ -49,3 +49,31 @@
     margin-top: 200px;
     margin-right: 150;
 }
+
+/*Our Featured Flowers*/
+.asif1{
+    font-size: 40px;
+}
+.pic{
+    display: flex;
+    align-items: center;
+    margin-left: 240px;
+    margin-right: 240px;
+    
+}
+.asif{
+    text-align: center;
+    margin-top: 60px; 
+}
+.pra{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.col{
+    color:#272727
+}
+
+/*Hot Deal ! Sale Up To 25% Of*/
