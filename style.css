@@ -77,3 +77,48 @@
 }
 
 /*Hot Deal ! Sale Up To 25% Of*/
+.sec2{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05); 
+}
+.sec22{
+    text-align: center;
+    margin-top: 200px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 230px;
+    color: #272727;
+    
+    
+    
+}
+.pic-sec{
+    margin-top: 170px;
+    margin-right: 190px;
+    padding-bottom: 90px;
+    height: fit-content;
+    width: fit-content;
+}
+.sec23{
+    font-size: 40px;
+    font-weight: 800px;
+    
+}
+.sec24{
+    color: color: rgba(39, 39, 39, 0.60); ;
+    padding: 20px;
+}
+.sec25{
+  color:#E55473
+}
+.btn2{
+    padding-top:15px ;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    border-radius: 8px;
+    background: #E55473; 
+}
